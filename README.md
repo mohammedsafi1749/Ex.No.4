@@ -326,4 +326,5 @@ The different prompt patterns were successfully generated and evaluated for the 
 
 
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+# Result:
+The various types of Prompts are executed successfully with generated the report.
